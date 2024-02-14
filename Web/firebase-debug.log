@@ -1,0 +1,43 @@
+[debug] [2021-09-13T13:45:50.934Z] ----------------------------------------------------------------------
+[debug] [2021-09-13T13:45:50.936Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-09-13T13:45:50.937Z] CLI Version:   9.18.0
+[debug] [2021-09-13T13:45:50.937Z] Platform:      win32
+[debug] [2021-09-13T13:45:50.937Z] Node Version:  v14.17.1
+[debug] [2021-09-13T13:45:50.938Z] Time:          Mon Sep 13 2021 14:45:50 GMT+0100 (British Summer Time)
+[debug] [2021-09-13T13:45:50.938Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-13T13:45:50.945Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-13T13:45:50.945Z] > authorizing via signed-in user (owen.mcgregor@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Dev\Udemy\Vue
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-09-13T13:47:12.712Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2021-09-13T13:47:13.133Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2021-09-13T13:47:13.133Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project udemy-vue-e734c (udemy-vue) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
