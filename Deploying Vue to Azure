@@ -1,0 +1,10 @@
+WEB APP
+https://dnilvincent.com/blog/posts/how-to-deploy-vue-js-app-on-azure-using-vscode
+https://endjin.com/blog/2021/08/how-to-deploy-vue-app-to-azure-static-web-apps-using-azure-devops-and-yaml
+
+BLOB
+https://passos.com.au/deploying-vue-js-to-azure-static-websites/
+
+APP SERVICE USING ZIP
+https://learn.microsoft.com/en-us/azure/app-service/deploy-zip
+https://learn.microsoft.com/en-us/azure/app-service/deploy-run-package

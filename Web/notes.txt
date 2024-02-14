@@ -1,0 +1,7 @@
+DEPLOY TO FIREBASE
+cmd in ClientApp dir
+firebase init
+
+public directory: dist
+single-page app - YES
+overwrite dist/index.html - NO
